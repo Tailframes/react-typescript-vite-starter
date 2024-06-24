@@ -1,8 +1,9 @@
 {
   "name": "react-typescript-vite-starter",
-  "private": true,
+  "description": "React, Tailframes, TypeScript, Vite starter",
   "version": "0.0.0",
   "type": "module",
+  "author": "Tomasz Guzik <tomasz.guzik94@gmail.com>",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc && vite build",
